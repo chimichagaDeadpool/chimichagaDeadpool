@@ -1,4 +1,4 @@
-[![ChimichagaDeadpool](https://raw.githubusercontent.com/chimichagaDeadpool/chimichagaDeadpool/main/Deadpool.jpg)
+[ChimichagaDeadpool](https://raw.githubusercontent.com/chimichagaDeadpool/chimichagaDeadpool/main/Deadpool.jpg)
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on Appniche<br><br>    🌱 I’m currently learning ReactJs, NodeJs,Reactnative<br><br>    👨‍💻 All of my projects are available at https://chimichagadeadpool.github.io<br><br>    💬 Ask me about Html5,Css,Javascript,Reactjs,Nodejs,SQLlite,Flask<br><br>    📫 How to reach me Chimichagadeadpool@gmail.com<br><br>    👨‍💻 Co-Owner of Appniche at https://appniche.github.io<br><br>  ⚡ Fun fact I think Im Creative<br><br> 
 
