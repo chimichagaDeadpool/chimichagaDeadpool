@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimichagadeadpool&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chimichagadeadpool&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
