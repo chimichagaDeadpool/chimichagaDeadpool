@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs,Reactnative**
 
-- 💬 Ask me about **Html5,Css,Javascript,Reactjs,Nodejs,SQLlite,Flask**
+- 💬 Ask me about **Html5,Css,Javascript,Reactjs,Nodejs,SQLlite,Flask,Figma**
 
 - 📫 How to reach me **Chimichagadeadpool@gmail.com**
 
